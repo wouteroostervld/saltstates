@@ -1,0 +1,3 @@
+uwsgi_flags="-M -L --ini /usr/local/etc/uwsgi.ini"
+uwsgi_gid="pyapp"
+uwsgi_uid="pyapp"

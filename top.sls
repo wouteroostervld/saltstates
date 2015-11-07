@@ -1,0 +1,6 @@
+base:
+    '*':
+        - basepkg
+
+    'uwsgi':
+        - flask
