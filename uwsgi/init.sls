@@ -51,7 +51,6 @@ py27-pip:
 
 virtualenv:
     pip.installed:
-        - upgrade: true
         - require:
             - pkg: py27-pip
 
